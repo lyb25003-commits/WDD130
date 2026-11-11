@@ -1,0 +1,26 @@
+{
+  "_comment": "Documented using Lucid for VS Code: https://marketplace.visualstudio.com/items?itemName=LucidSoftware.lucidforvscode",
+  "schemaVersion": 2,
+  "diagrams": [
+    {
+      "documentId": "f7da773b-b4c7-4826-89af-690b7482a230",
+      "title": "PortalPage wireframe",
+      "pages": [
+        {
+          "id": "0_0",
+          "title": "Page 1"
+        }
+      ],
+      "artifacts": [
+        {
+          "fileName": "portalpage_wireframe_f7da773b-b4c7-4826-89af-690b7482a230.json",
+          "format": "json",
+          "scope": {
+            "type": "document"
+          },
+          "actionHistoryLength": 1399
+        }
+      ]
+    }
+  ]
+}

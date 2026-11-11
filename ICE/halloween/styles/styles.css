@@ -1,0 +1,72 @@
+
+@import url('https://googleapis.com');
+#wrapper {
+    border: 10px #ff5500 15px;
+    border-radius: 15%;
+    li:nth-child(even) {
+        color: #ff5500;
+        font-family: 'Butcherman', cursive;
+        text-decoration:  underline wavy;
+    }
+    li:nth-child(odd) {
+        color: rgb(131, 6, 247);
+        font-family: 'nosifier', cursive;
+        text-decoration:  underline wavy;
+    }
+    
+}
+li{
+    text-align: center;
+    display: grid;
+    grid-template-rows: auto;
+}
+h1 {
+    font-family: 'Creepster', cursive;
+  color: #ff5500; 
+  text-shadow: 0 0 10px #000;
+}
+body {
+    background-color: rgb(73, 12, 78);
+}
+img {
+    box-shadow: 0 0 10px #000;
+}
+section{
+    
+    max-width: 1500px;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-decoration: wavy; 
+    border: 10px solid #ff5500;
+    border-radius: 15%;
+    border-top: 2px solid #05af1c;
+     border-top-left-radius: 100%;
+    border-top-right-radius: 100%;
+      border-bottom-left-radius: 50%;
+       border-bottom-right-radius: 50%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10px;
+    background-image:url(../images/pumpkin.png);
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: 100px ;
+    background-color: hsl(0, 0%, 12%);
+     box-shadow: 0 0 10px #472b01;
+
+    h2{font-family: 'Creepster', cursive;
+      color: #ff5500; 
+     text-shadow: 0 0 5px #000;
+    }
+    p{
+        color: rgb(131, 6, 247);
+        font-family: 'nosifier', cursive;
+        text-decoration: wavy;
+        border: 5px solid #ff5500 ;
+        border-width: 10px;
+        border-radius: 6%;  
+    }
+} 
+main{
+    text-align: center;
+}

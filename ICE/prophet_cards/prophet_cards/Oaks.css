@@ -1,0 +1,42 @@
+
+
+font-family {
+    font-family: Helvetica, sans-serif;
+
+
+    body {
+        font-size: 22px;
+        color: #ffecd7;
+        text-align: center;
+
+
+     #card {
+        color: #008db1;
+        border: #004e63;
+        text-align: inherit;
+        }
+    }
+    h1 {
+        color: #fffffe;
+    }
+
+
+    .subtitle {
+        color: #91e4fb;
+    }
+
+
+    .info {
+        color: #fffffe;
+    }
+
+
+    p {
+        color: #ffd783;
+        font-style: "Brush Script MT", "Nanum Brush Script";
+    }
+
+
+
+
+}
